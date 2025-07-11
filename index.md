@@ -1,9 +1,5 @@
-
-```markdown
 # 🚀 A Journey into Open Source with ETL’s OSPC Initiative
-
 *By Asma Malik*
-
 
 ## 🌱 How It Started
 
@@ -65,7 +61,3 @@ Let’s talk. This is just the beginning.
 > 💬 Join the community: [ETL-Online Platform](https://etl-online.org)
 
 *Together, we’re not just writing code—we’re building futures.*
-
-```
-
-
