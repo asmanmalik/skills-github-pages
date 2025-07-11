@@ -1,11 +1,9 @@
 
-
 ```markdown
 # 🚀 A Journey into Open Source with ETL’s OSPC Initiative
 
 *By Asma Malik*
 
----
 
 ## 🌱 How It Started
 
@@ -13,7 +11,6 @@ When I joined the ETL Executive Team, I knew I wanted to work on something meani
 
 At its core, OSPC is about **empowering students** to go beyond tutorials and certificates. It’s about enabling them to **contribute to real open-source projects**, guided by mentors and supported by a community that believes in learning by doing.
 
----
 
 ## 🛠 What We’re Building
 
@@ -25,7 +22,6 @@ The OSPC initiative is more than just a GitHub repository. It's a thoughtfully d
 - 🧰 A full **Contributor Toolkit** (README templates, Git workflows, RACI charts, issue templates, and more)
 - 🧪 Real-life engineering practices: code reviews, CI pipelines, branching strategies
 
----
 
 ## 🔍 The Contributor Experience
 
@@ -37,7 +33,6 @@ Each student is invited to participate in projects selected specifically for the
 
 For many, this is their *first GitHub PR*. For some, their first experience collaborating in a team. And for all, it's a step forward in becoming open-source contributors for life.
 
----
 
 ## 📈 Impact So Far
 
@@ -45,12 +40,11 @@ We’ve seen students go from “I’m not sure where to start” to “I just o
 
 The OSPC program has:
 
-- ✅ Issued dozens of open-source contributor certificates
-- 🚀 Launched two student-led projects into execution
+- ✅ Issued open-source contributor certificates to the activly participating students
+- 🚀 Soon will be Launching two student-led projects into execution
 - 💬 Facilitated real-world conversations between junior and senior devs
 - 🏗 Built confidence in students to solve real-world problems collaboratively
 
----
 
 ## 💡 Why It Matters
 
@@ -58,7 +52,6 @@ In today’s world, **open source is the new résumé**. By working openly, shar
 
 At ETL, we believe that **giving back is learning forward**. And that’s what OSPC is all about.
 
----
 
 ## 🙌 Get Involved
 
@@ -75,5 +68,4 @@ Let’s talk. This is just the beginning.
 
 ```
 
----
 
