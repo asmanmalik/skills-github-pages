@@ -1,6 +1,3 @@
-# 🚀 A Journey into Open Source with ETL’s OSPC Initiative
-*By Asma Malik*
-
 ## 🌱 How It Started
 
 When I joined the ETL Executive Team, I knew I wanted to work on something meaningful—something that blends education, collaboration, and real-world impact. That opportunity came in the form of **ETL’s Open Source Project Contribution (OSPC) Initiative**.
